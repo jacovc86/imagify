@@ -1,0 +1,22 @@
+{
+  "name": "imagify",
+  "version": "1.0.0",
+  "description": "Image processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacovc86/imagify.git"
+  },
+  "keywords": [
+    "Image"
+  ],
+  "author": "Kobi Cohen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacovc86/imagify/issues"
+  },
+  "homepage": "https://github.com/jacovc86/imagify#readme"
+}
